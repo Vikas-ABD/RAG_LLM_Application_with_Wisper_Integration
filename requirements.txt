@@ -1,0 +1,6 @@
+openai
+pypdf
+llama-index
+weaviate-client
+langchain
+torch
